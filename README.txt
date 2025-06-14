@@ -15,5 +15,5 @@ NOTE:
 If you are not running it on the cs3307 gaul, I was able to get away with not using Xming when running it locally
 just had to ssh in, qmake, make, ./mineSweeper
 
-![Mine Sweeper](MineSweeper.png)
+![Image](https://github.com/user-attachments/assets/6fa51786-3fb9-44e3-9f9f-2c5842431bfa)
 
