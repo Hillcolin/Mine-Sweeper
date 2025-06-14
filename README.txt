@@ -15,4 +15,4 @@ NOTE:
 If you are not running it on the cs3307 gaul, I was able to get away with not using Xming when running it locally
 just had to ssh in, qmake, make, ./mineSweeper
 
-![Mine Sweeper][MineSweeper.png]
+![Mine Sweeper](MineSweeper.png)
