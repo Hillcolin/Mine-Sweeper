@@ -16,3 +16,4 @@ If you are not running it on the cs3307 gaul, I was able to get away with not us
 just had to ssh in, qmake, make, ./mineSweeper
 
 
+  
